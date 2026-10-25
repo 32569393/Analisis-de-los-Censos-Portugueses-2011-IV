@@ -1,4 +1,4 @@
-# Analisis-de-los-Censos-Portugueses-2011-III
+# Analisis-de-los-Censos-Portugueses-2011-IV
 Tercer análisis estadístico y demográfico sobre los edificios y los residentes mayores de las freguesias de São José y Benfica (Censo 2011, Portugal) usando R.
 
 Este proyecto consiste en un análisis estadístico y demográfico de los datos del Censo de Portugal del año 2011 con respecto a las **freguesias de São José y Benfica**. El objetivo principal es identificar patrones en la **población mayor** de estas freguesias — relacionados con los **grupos de edad, el género y el estado civil** — a través de herramientas de ciencia de datos.
